@@ -17,6 +17,7 @@ So far, integration of this standard exists for the following software:
 
 * [BookWyrm](https://joinbookwyrm.com)
 * [diaspora*](https://diasporafoundation.org)
+* [Emissary](https://emissary.dev)
 * [Friendica](https://friendi.ca)
 * [Funkwhale](https://funkwhale.audio)
 * [Gancio](https://gancio.org)
